@@ -1,0 +1,193 @@
+HTML
+
+1. Is HTML Case-sensitive?
+A. Yes
+B. No
+C. None
+
+Answer: B
+
+2. Which element is semantic of below elements ?
+A. <p>This is a paragraph.</p>
+B. <div>This is also a paragraph.</div>
+C. <ul><li>Item 1</li><li>Item 2</li></ul>
+D. <form> This is form </form>
+
+Answer: D
+
+3. How can put scrolling text in HTML ?
+A. Using the <Style> tag
+B. Using <scroll> tag
+C. Using <marquee> tag
+D. All of the above
+
+Answer: A
+
+4. Which are void element in HTML?
+A. img, br, hr
+B. div, span, input
+C. p, ul, li
+D. all of the above
+
+Answer: A
+
+5. How do you create a hyperlink in HTML?
+A. Using the <href>
+B. Using the <hyperlink>
+C. Using the <a>
+D. Using the <rel>
+
+Answer: C
+
+CSS
+
+6. How can you target h3 and h2 with the same styling?
+A. You can use "h3, h2 {}"
+B. You can use ".h3, .h2"
+C. You can use "*h3, *h2 "
+D. You can use ":h3,:h2"
+
+Answer: A
+
+7. Can negative values be allowed in padding property?
+A. Yes
+B. No
+C. It depends on the browser
+D. It depends on the property
+
+Answer: B
+
+8. Which is psudo-class?
+A. first-line
+B. marker
+C. first-child
+D. after
+
+Answer: C
+
+9. What does the inherit value for a property do?
+A. Changes the value of the parent element's property
+B. Invalid property name
+C. Add new property
+D. inherits the value of the parent element
+
+Answer: A
+
+10. What will be the width of the div element given below?
+div {
+  width: 310px;
+  padding: 20px;
+  border: 5px solid blue;
+  margin: 0;
+}
+A. 310px
+B. 335px
+C. 360px
+D. 350px
+
+Answer: C
+
+Javascript
+
+11.What will be the output of the following code snippet?
+
+const example = ({ a, b, c }) => {
+ console.log(a, b, c);
+};
+example(0, 1, 2);
+A. 0 1 2
+B. 0 Undefined Undefined
+C. Undefined Undefined Undefined
+D. None
+
+Answer: C
+
+12. What will be the output of the following code snippet?
+
+<script>
+    a = 5 + "9";
+    document.write(a);
+</script>
+A. 14
+B. Compilation Error
+C. 59
+D. Runtime Error
+
+Answer: C
+
+13. What will be the output of the following code snippet?
+
+var a = true + true + true * 3;
+console.log(a);
+A. True
+B. 5
+C. 7
+D. 3
+
+Answer: B
+
+14. What will be the output of the following code snippet?
+
+const obj1 = {first: 20, second: 30, first: 50};
+console.log(obj1);
+A. {first: 20, second: 30}
+B. {first: 30, second: 30}
+C. {first: 50, second: 30}
+D. {first: 20, second: 30, first: 50}
+
+Answer: C
+
+15. What will be the output of the following code snippet?
+
+function test(...args) {
+ console.log(typeof args);
+}
+test(12);
+A. NaN
+B. Number
+C. Object
+D. Array
+
+Answer: C
+
+English
+
+16. Her thinking leans ____ democracy.
+A. with
+B. towards
+C. for
+D. None of these
+
+Answer: B
+
+17. He got too tired _____ over work.
+A. because of
+B. because off
+C. on
+D. for
+
+Answer: A
+
+18. The train ____ as fast as the bus.
+A. went
+B. running
+C. moves
+D. going
+
+Answer: C
+
+19. She ____ in the sun for 1 hour.
+A. sitting
+B. has been sitting
+C. has been sit
+D. has sit
+
+Answer: B
+
+20.  ____ it help you in your studies ?
+A. will
+B. was
+C. is
+D. are
+
+Answer: A

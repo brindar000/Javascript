@@ -1,0 +1,186 @@
+HTML
+
+1.What is perpouse of useing Meta tag in HTML ?
+A. To provide metadata about the HTML document, such as character set, author, and viewport settings.
+B. To include keywords that help search engines understand the content of the page.
+C. To specify directives for web crawlers or search engines, like indexing or following links.
+D. To set the refresh rate for automatically redirecting or reloading the page.
+
+Ans. A
+
+2. Which element is non-semantic of below element ?
+A. <header>This is header</header>
+B. <artical>This is artical</artical>
+C. <span>This is span</span>
+D. <form>This is header</form>
+
+Ans. C
+
+3. Which one is attribute ?
+A. em
+B. span
+C. pre
+D. style
+
+Ans. D
+
+4. Which one is valid method to use favicon icon in html ?
+A. <link rel="icon" href="favicon.ico" type="image/x-icon">
+B. <link rel="shortcut icon" href="path/to/favicon.ico" type="x-icon">
+C. <link rel="icon" src="/path/to/favicon.ico" type="x-icon">
+D. <link rel="favicon" href="favicon.ico" type="image/x-icon">
+
+Ans. A
+
+5. Which attribute is use to show text in place of image ?
+A. text
+B. alt
+C. description
+D. title
+
+Ans. B
+
+CSS
+
+6. Which one is Pseudo-element ?
+A. last-child
+B. hover
+C. first-line
+D. root
+
+Ans. C
+
+7. What is right order of the CSS box model ?
+A. Margin > Border > Padding > Content
+B. Margin > Padding > Border > Content
+C. Content > Border > Padding > Margin
+D. Border > Margin > Padding > Content
+
+Ans. A
+
+8. Which property is specify the look and design of an outline ?
+A. outline
+B. outline-style
+C. outline-shadow
+D. outline-font
+
+Ans. B
+
+9. Select the property of CSS overflow from below properties ?
+A. sticky
+B. static
+C. fixed
+D. auto
+
+Ans. D
+
+10. What is the default value of the position property?
+A. relative
+B. static
+C. absolute
+D. fixed
+
+Ans. B
+
+JavaScript
+
+11. ? This sign is for which operater ?
+A. Assignment operaters
+B. Arithmetic operaters
+C. Comparison operaters
+D. Bitwise operators
+
+Ans. C
+
+12. let arr = ['Red', 'Blue', 'Black'];
+    let method = arr.unshift('Orange');
+    console.log(method);
+A. ['Orange','Red', 'Blue', 'Black']  
+B. ['Red', 'Blue', 'Orange','Black']  
+C. ['Red', 'Blue', 'Black','Orange'] 
+D. ['Red', 'Blue', 'Black','unshift']
+
+Ans. A
+
+13. Write logic for this Petterns.
+       0
+       1 2
+       3 4 5 
+       6 7 8 9  
+
+Ans. 
+let string = '';
+let count = 0;
+for (let i = 0; i <= 3; i++) {
+    for (let j = 0; j <= i; j++) {
+        string += count
+        count++;
+    }
+    string += '\n'
+}
+console.log(string);
+
+
+14. What happens when we run this code?
+    function dog() {
+       print("I am a dog.");
+    }
+    dog.sound = "Bark";
+A. Syntext error
+B. "I am a dog Bark" gets printed
+C. ReferenceError
+D. Nothing happens
+
+Ans. D
+
+15. What will be the output of the following code snippet?
+    a = [1, 2, 3, 4, 5];
+    print(a.slice(2, 4));
+A. 3,4
+B. 2,3
+C. 3,4,5
+D. 2,3,4
+
+Ans. A
+
+English
+
+16. Building has been built _____ the new plan.
+A. accordance to
+B. in accordance with
+C. for
+D. about
+
+Ans. B
+
+17. The train ____ as fast as the bus.
+A. went
+B. running
+C. moves
+D. going
+
+Ans. C
+
+18. ____ it help you in your studies ?
+A. will
+B. was
+C. is
+D. are
+
+Ans. A
+
+19. Choose the correct answer ?
+A. My friend has got a new job.
+B. My friend has got a new work.
+C. My friend is got a new job.
+D. My friend did got a new job.
+
+Ans. A
+
+20. I ____ never seen such a picture before.
+A. did
+B. was
+C. have
+D. has
+
+Ans. C
